@@ -11,7 +11,6 @@ Um gerador de senhas web simples, rápido e seguro. Desenvolvido para criar senh
 
 ## 🛠️ Tecnologias Utilizadas
 
-*(Edite esta seção caso tenha usado frameworks como React, Vue, Tailwind, etc.)*
 * **HTML5:** Estrutura da página.
 * **CSS3:** Estilização e design responsivo.
 * **JavaScript:** Lógica de geração de senhas e funcionalidade de copiar para a área de transferência.
