@@ -29,4 +29,4 @@ Se você quiser rodar este projeto na sua máquina para testar ou modificar:
 
 1. Link para acesso:
    ```bash
-   https://mateus-silva06.github.io/Gerador/
+   https://mateus-silva06.github.io/Gerador-de-Senhas/
